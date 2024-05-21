@@ -7,16 +7,16 @@
 # This is Registration Page
 ![SignUp](https://github.com/Codersonudiwakar/BankingApplicationBackend/assets/138717372/69d49e27-8262-48d1-9b9f-c403e00f5dad)
 
-# This is Balance Check Page
+# After Login Balance Check Page
 ![balance](https://github.com/Codersonudiwakar/BankingApplicationBackend/assets/138717372/0aed73d9-c2be-4825-bfd0-ad30646572d4)
 
 # This is Profile Page
 ![profile](https://github.com/Codersonudiwakar/BankingApplicationBackend/assets/138717372/d5dbee8e-e493-4fb2-84e5-b97d67df1dce)
 
-# This is Card Page
+# After Login Card Page
 ![card](https://github.com/Codersonudiwakar/BankingApplicationBackend/assets/138717372/e74366b3-5685-4a08-b33a-e83d9846add9)
 
-# This is Amount Tranfer
+# After Login Amount Tranfer
 
 ![transfer](https://github.com/Codersonudiwakar/BankingApplicationBackend/assets/138717372/e901ef27-5dbf-4192-9182-c2e50b415ddd)
 
